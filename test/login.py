@@ -4,3 +4,4 @@ c = 100
 str01 = "hahaha"
 str02 = "xixixi"
 d = 100
+f = 50000
